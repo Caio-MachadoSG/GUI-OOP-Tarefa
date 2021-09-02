@@ -1,0 +1,16 @@
+/home/caiomsg/Documentos/Caio/ESTUDOS/CSHARP/Aula-01-09/obj/Debug/net5.0/Aula-01-09.csproj.AssemblyReference.cache
+/home/caiomsg/Documentos/Caio/ESTUDOS/CSHARP/Aula-01-09/obj/Debug/net5.0/Aula-01-09.GeneratedMSBuildEditorConfig.editorconfig
+/home/caiomsg/Documentos/Caio/ESTUDOS/CSHARP/Aula-01-09/obj/Debug/net5.0/Aula-01-09.AssemblyInfoInputs.cache
+/home/caiomsg/Documentos/Caio/ESTUDOS/CSHARP/Aula-01-09/obj/Debug/net5.0/Aula-01-09.AssemblyInfo.cs
+/home/caiomsg/Documentos/Caio/ESTUDOS/CSHARP/Aula-01-09/obj/Debug/net5.0/Aula-01-09.csproj.CoreCompileInputs.cache
+/home/caiomsg/Documentos/Caio/ESTUDOS/CSHARP/Aula-01-09/bin/Debug/net5.0/Aula-01-09
+/home/caiomsg/Documentos/Caio/ESTUDOS/CSHARP/Aula-01-09/bin/Debug/net5.0/Aula-01-09.deps.json
+/home/caiomsg/Documentos/Caio/ESTUDOS/CSHARP/Aula-01-09/bin/Debug/net5.0/Aula-01-09.runtimeconfig.json
+/home/caiomsg/Documentos/Caio/ESTUDOS/CSHARP/Aula-01-09/bin/Debug/net5.0/Aula-01-09.runtimeconfig.dev.json
+/home/caiomsg/Documentos/Caio/ESTUDOS/CSHARP/Aula-01-09/bin/Debug/net5.0/Aula-01-09.dll
+/home/caiomsg/Documentos/Caio/ESTUDOS/CSHARP/Aula-01-09/bin/Debug/net5.0/ref/Aula-01-09.dll
+/home/caiomsg/Documentos/Caio/ESTUDOS/CSHARP/Aula-01-09/bin/Debug/net5.0/Aula-01-09.pdb
+/home/caiomsg/Documentos/Caio/ESTUDOS/CSHARP/Aula-01-09/obj/Debug/net5.0/Aula-01-09.dll
+/home/caiomsg/Documentos/Caio/ESTUDOS/CSHARP/Aula-01-09/obj/Debug/net5.0/ref/Aula-01-09.dll
+/home/caiomsg/Documentos/Caio/ESTUDOS/CSHARP/Aula-01-09/obj/Debug/net5.0/Aula-01-09.pdb
+/home/caiomsg/Documentos/Caio/ESTUDOS/CSHARP/Aula-01-09/obj/Debug/net5.0/Aula-01-09.genruntimeconfig.cache
