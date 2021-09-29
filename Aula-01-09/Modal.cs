@@ -18,11 +18,15 @@ namespace Aula_01_09
         }
 
         public void setLargura(int larg) {
-            atualLarg = larg;
+            if (larg > 1) {
+                atualLarg = larg;
+            }
         }
 
         public void setAltura(int alt) {
-            atualAlt = alt;
+            if (alt > 1) {
+                atualAlt = alt;
+            }
         }
     }
 }
